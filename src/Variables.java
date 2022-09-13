@@ -25,7 +25,7 @@ public class Variables
         System.out.println("*        integer types          *");
         System.out.println("*                               *");
         System.out.println("*8 bit - byteOne = "+byteOne+"\t\t*");
-        System.out.println(num1 + f1);
+        System.out.println(num1 * f1);
         System.out.println(ch + a);
         System.out.println("What school do you go to?"+schoolName+"");
         System.out.println("Do you actually go there?"+school+"");
